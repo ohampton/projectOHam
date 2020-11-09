@@ -338,6 +338,11 @@ a:active {
   height: auto; 
   opacity: .6;}
 
+.about .about-image {
+
+  height: 60px;
+}
+
 /*--
     call-to-action start
 --*/
