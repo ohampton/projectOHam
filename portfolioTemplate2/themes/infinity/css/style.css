@@ -277,7 +277,7 @@ a:active {
   border: 0; }
   .navigation .navbar-brand {
     padding-top: 5px;
-    display: inline-block; }
+    display: none; }
   .navigation .navbar-toggler {
     background: #fff;
     outline: none;
