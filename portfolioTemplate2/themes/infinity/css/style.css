@@ -94,7 +94,7 @@ a:active {
   border-radius: 0; }
 
 .btn-home {
-  background-color: #1bafb4;
+  background-color: #8e5699;
   border-radius: 0px;
   color: #fff;
   font-size: 18px;
@@ -218,7 +218,8 @@ a:active {
 .bg-1 {
   background-image: url("../images/img/computerscreen.jpg");
   background-size: cover;
-  background-attachment: fixed; }
+  background-attachment: fixed; 
+  opacity: .7;}
 
 .bg-gray {
   background: #f8f8f8; }
@@ -391,8 +392,8 @@ a:active {
 
 .btn-send {
   line-height: 48px;
-  border: 2px solid #1bafb4;
-  background: #1bafb4;
+  border: 2px solid #8e5699;
+  background: #8e5699;
   color: #fff;
   width: 100%;
   font-size: 14px;
