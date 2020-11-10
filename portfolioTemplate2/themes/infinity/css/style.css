@@ -338,7 +338,7 @@ a:active {
   height: auto; 
   opacity: .6;}
 
-.bio image {
+.bio-image {
 
   background-image: url("../images/img/computerscreen.jpg");
   background-size: cover;
