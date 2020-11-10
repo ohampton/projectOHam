@@ -340,7 +340,7 @@ a:active {
 
 .about .about-image {
 
-  height: 60px;
+  max-height: 60px;
 }
 
 /*--
