@@ -338,9 +338,12 @@ a:active {
   height: auto; 
   opacity: .6;}
 
-.about .about-image {
+.bio image {
 
-  max-height: 60px;
+  background-image: url("../images/img/computerscreen.jpg");
+  background-size: cover;
+  background-attachment: fixed; 
+  opacity: .7;
 }
 
 /*--
