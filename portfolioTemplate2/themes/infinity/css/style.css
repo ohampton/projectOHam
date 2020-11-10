@@ -25,7 +25,8 @@ h1 {
 
 h2 {
   font-size: 30px;
-  line-height: 35px; }
+  line-height: 35px; 
+  color: white;}
 
 h3 {
   font-size: 23px;
@@ -75,10 +76,10 @@ a:active {
 
 .heading {
   text-align: center;
-  color: #777777;
+  color: white;
   padding-bottom: 70px; }
   .heading h2 {
-    color: #3c3c3c;
+    color: white;
     padding-bottom: 15px;
     text-transform: capitalize;
     font-weight: 600;
@@ -219,7 +220,7 @@ a:active {
   background-image: url("../images/img/computerscreen.jpg");
   background-size: cover;
   background-attachment: fixed; 
-  opacity: .7;}
+  opacity: .9;}
 
 .bg-gray {
   background: #f8f8f8; }
@@ -343,7 +344,7 @@ a:active {
   background-image: url("../images/img/computerscreen.jpg");
   background-size: cover;
   background-attachment: fixed; 
-  opacity: .7;
+  opacity: .9;
 }
 
 /*--
@@ -351,7 +352,7 @@ a:active {
 --*/
 .call-to-action {
   padding: 90px 0px;
-  background-image: url(../images/call-to-action.jpg);
+  background-image: url(../images/call-to-action2.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
