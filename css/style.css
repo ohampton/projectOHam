@@ -352,7 +352,12 @@ a:active {
   border: 0;
 }
 .navigation .navbar-brand {
-  padding-top: 5px;
+  
+}
+
+.brand-size{
+  src: url(../images/img/logo.png);
+  width: 25px;
 }
 .navigation .navbar-toggler {
   background: #fff;
