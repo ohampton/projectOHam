@@ -282,7 +282,7 @@ a:active {
     .hero-area start
 --*/
 .bg-1 {
-  background-image: url("../images/img/computerscreen.jpg");
+  background-image: url("../images/img/iphone\ comp\ background.jpg");
   background-size: cover;
   background-attachment: fixed;
   opacity: 0.9;
@@ -434,7 +434,7 @@ a:active {
 }
 
 .bio-image {
-  background-image: url("../images/img/computerscreen.jpg");
+  background-image: url("../images/img/iphone\ comp\ background.jpg");
   background-size: cover;
   background-attachment: fixed;
   opacity: 0.9;
