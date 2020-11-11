@@ -353,9 +353,9 @@ a:active {
   margin: 0;
   border: 0;
 }
-.navigation .navbar-brand {
+ /* .navigation .navbar-brand {
   
-}
+}*/
 
 .brand-size{
   src: url(../images/img/logo.png);
